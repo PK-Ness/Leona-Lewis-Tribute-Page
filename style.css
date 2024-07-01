@@ -1,0 +1,15 @@
+#main{
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .title-box{
+    border: 8px solid black;
+    margin-bottom: 1rem;
+    background-color: #f9f1f0;
+  }
+  #img-div{
+    max-width: 90%;
+  }
+  body{
+    background-color:#f8d8d1;
+  }
